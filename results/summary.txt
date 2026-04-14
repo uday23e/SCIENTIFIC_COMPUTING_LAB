@@ -1,0 +1,11 @@
+Steepest Descent
+Iterations: 3015
+Final point: (0.000000000000e+00, -3.555032910733e-04)
+Final objective value: 1.597255904599e-14
+Final gradient norm: 1.797177066662e-10
+
+Modified Newton
+Iterations: 14
+Final point: (0.000000000000e+00, 2.240570507843e-04)
+Final objective value: 2.520196827859e-15
+Final gradient norm: 4.499205571147e-11
